@@ -14,6 +14,7 @@
   - erlang-sasl
   - erlang-ssl
   - erlang-syntax-tools
+  - erlang-tools
 - elixir
 - nodejs
 
