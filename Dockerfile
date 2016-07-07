@@ -25,7 +25,8 @@ RUN apk --no-cache add \
   erlang-public-key \
   erlang-sasl \
   erlang-ssl \
-  erlang-syntax-tools
+  erlang-syntax-tools \
+  erlang-tools
 
 
 # Elixir
