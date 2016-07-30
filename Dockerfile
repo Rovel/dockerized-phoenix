@@ -3,7 +3,7 @@ FROM mhart/alpine-node:latest
 
 # Configuration
 
-ENV ELIXIR_VERSION 1.3.1
+ENV ELIXIR_VERSION 1.3.2
 
 
 # Utils
